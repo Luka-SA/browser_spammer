@@ -17,8 +17,13 @@ def browser():
     num_times_open = int(
         input("How many times do you want the link to open in a new tab?: "))
     chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s'
-    for i in range(num_times_open):
-        webbrowser.get(chrome_path).open(URL)
+    if num_times_open > 0:
+        webbrowser.get(chrome_path).open(URL, 1)
+    else:
+        print("You broke me!  Try again")
+    if num_times_open > 1:
+        for i in range(num_times_open - 1):
+            webbrowser.get(chrome_path).open(URL)
 
 
 browser()
