@@ -1,11 +1,11 @@
 # Browser Spammer
 It's quite simple.
 You can:
-Open the same link using Chrome as many times as you would like.
+Open the same link using your default browser (switch using your Microsoft settings) as many times as you would like.
 
 Have fun.
 
 REQUIREMENTS:                                                                               
 Python                                                                                                                  
 webbrowser for Python                                                                          
-Google Chrome installed in your C directory
+A default browser chosen
