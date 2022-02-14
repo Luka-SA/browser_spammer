@@ -9,5 +9,5 @@ Have fun.
 
 REQUIREMENTS:                                                                               
 Python                                                                                                                  
-webbrowser for Python                                                                          
+webbrowser for Python (standard package)                                                                          
 A default browser chosen
