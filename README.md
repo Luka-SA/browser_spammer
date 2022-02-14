@@ -7,7 +7,7 @@ Open the same link using your default browser (switch using your Microsoft setti
 
 Have fun.
 
-REQUIREMENTS:                                                                               
+# REQUIREMENTS:                                                                               
 Python                                                                                                                  
 webbrowser for Python (standard package)                                                                          
 A default browser chosen
