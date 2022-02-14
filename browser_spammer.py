@@ -10,6 +10,7 @@ __updated__ = "2022-02-14"
 """
 # Imports
 import webbrowser
+from time import sleep
 
 
 def browser():
@@ -17,12 +18,13 @@ def browser():
     num_times_open = int(
         input("How many times do you want the link to open in a new tab?: "))
     if num_times_open > 0:
-        webbrowser.get('windows-default').open(URL, 1)
+        webbrowser.get('windows-default').open_new(URL)
     else:
         print("You broke me!  Try again")
     if num_times_open > 1:
         for i in range(num_times_open - 1):
             webbrowser.get('windows-default').open_new_tab(URL)
+            sleep(.15)
 
 
 browser()
