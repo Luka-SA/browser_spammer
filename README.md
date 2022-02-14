@@ -1,3 +1,5 @@
+![alt text](https://github.com/[Luka-SA]/[browser_spammer]/blob/[main]/browser_spammer_logo.jpg?raw=true)
+
 # Browser Spammer
 It's quite simple.
 You can:
