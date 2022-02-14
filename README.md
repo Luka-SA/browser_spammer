@@ -10,5 +10,5 @@ Have fun.
 # REQUIREMENTS:                                                                               
 Python                                                                                                                  
 webbrowser for Python (standard package)                                                                          
-A default browser chosen
+A default browser chosen   
 Or just download the exe from https://github.com/Luka-SA/browser_spammer/releases/tag/Release
