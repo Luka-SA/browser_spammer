@@ -3,7 +3,7 @@
 # Browser Spammer
 It's quite simple.
 You can:      
-Open the same link using your default browser (switch using your Microsoft settings) as many times as you would like.
+Open the same link using your default browser (switch using your settings) as many times as you would like.
 
 Have fun.  
 I think it works on Mac.  Let me know  
