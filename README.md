@@ -14,3 +14,5 @@ A default browser chosen
 Or just download the exe from https://github.com/Luka-SA/browser_spammer/releases/tag/Release  
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Luka-SA/browser_spammer.svg?style=plastic)
+
+![license MIT License](https://img.shields.io/github/license/Luka-SA/browser_spammer?style=plastic)
